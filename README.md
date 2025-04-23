@@ -19,7 +19,7 @@ A Spring Boot 3 backend application to manage property units, landlords, tenants
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/property-management-system.git
+   git clone https://github.com/MohsinSolangi/property-management-system.git
    cd property-management-system
    ```
 
@@ -165,4 +165,4 @@ Link
 
 ## 📩 Contact
 
-For issues or queries, feel free to create an issue or connect via [LinkedIn](linkedin.com/in/mohsin-solangi-1a2b3c/).
+For issues or queries, feel free to create an issue or connect via [LinkedIn](https://www.linkedin.com/in/mohsin-solangi-1a2b3c/).
